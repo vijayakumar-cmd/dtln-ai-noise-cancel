@@ -1,0 +1,6 @@
+torch>=2.1
+torchaudio>=2.1
+numpy>=1.24
+pystoi>=2.3
+pesq>=0.0.4
+# Optional: librosa>=0.10
